@@ -1,0 +1,19 @@
+{
+    "results": [
+        {
+            "id": 550,
+            "title": "Fight Club",
+            "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+            "release_date": "1999-10-15",
+            "genre_ids": [18, 53]
+        },
+        {
+            "id": 238,
+            "title": "The Godfather",
+            "poster_path": "/3bhkrj58Vtu7enYsLegiokantuP.jpg",
+            "release_date": "1972-03-14",
+            "genre_ids": [18, 80]
+        }
+    ],
+    "total_pages": 42
+}
