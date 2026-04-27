@@ -14,9 +14,6 @@ DerivedData/
 .swiftpm/
 Packages/.build/
 
-# Secrets — never commit
-MoviesCleanArch/Config/APIKey.swift
-MoviesCleanArch/Config/Secrets.xcconfig
 
 # macOS
 .DS_Store
